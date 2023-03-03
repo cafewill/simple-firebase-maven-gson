@@ -1,6 +1,6 @@
 # simple-firebase-maven-gson
 
-This is a simple firebase util (maven, gson)
+This is a simple firebase util (java, maven, gson)
 
 ## Features
 
